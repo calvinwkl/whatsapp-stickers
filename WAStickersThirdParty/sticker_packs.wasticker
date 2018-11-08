@@ -12,16 +12,24 @@
         "license_agreement_website" : "",
         "stickers": [
         {
-            "image_file": "winnie_1_compressed.png",
+            "image_file": "winnie_1.png",
+            "emojis": []
+        },
+        {
+            "image_file": "endy_1.png",
+            "emojis": []
+        },
+        {
+            "image_file": "fai_1.png",
+            "emojis": []
+        },
+        {
+            "image_file": "fai_2.png",
             "emojis": []
         },
         {
             "image_file": "taeyeon_1.png",
             "emojis": []
-        },
-        {
-            "image_file": "winnie_1_compressed.png",
-            "emojis": ["🖐","👋"]
         }]
     }]
 }

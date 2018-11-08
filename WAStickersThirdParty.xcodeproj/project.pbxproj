@@ -38,9 +38,12 @@
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
-		F8164760219331BF00899F3F /* winnie_1_compressed.png in Resources */ = {isa = PBXBuildFile; fileRef = F816475F219331BF00899F3F /* winnie_1_compressed.png */; };
 		F816476421933EA500899F3F /* taeyeon_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F816476321933EA500899F3F /* taeyeon_1.png */; };
 		F816476621933F6300899F3F /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = F816476521933F6300899F3F /* tray_Cuppy.png */; };
+		F8E4D93A219493CF00C11EC9 /* winnie_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D939219493CF00C11EC9 /* winnie_1.png */; };
+		F8E4D94A21949DE300C11EC9 /* endy_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94921949DE300C11EC9 /* endy_1.png */; };
+		F8E4D94C21949F8B00C11EC9 /* fai_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94B21949F8B00C11EC9 /* fai_1.png */; };
+		F8E4D94E2194A03600C11EC9 /* fai_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94D2194A03600C11EC9 /* fai_2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -104,9 +107,12 @@
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
-		F816475F219331BF00899F3F /* winnie_1_compressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = winnie_1_compressed.png; path = ../../Documents/winnie_1_compressed.png; sourceTree = "<group>"; };
 		F816476321933EA500899F3F /* taeyeon_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taeyeon_1.png; path = ../../Downloads/taeyeon_1.png; sourceTree = "<group>"; };
 		F816476521933F6300899F3F /* tray_Cuppy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tray_Cuppy.png; sourceTree = "<group>"; };
+		F8E4D939219493CF00C11EC9 /* winnie_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winnie_1.png; sourceTree = "<group>"; };
+		F8E4D94921949DE300C11EC9 /* endy_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = endy_1.png; sourceTree = "<group>"; };
+		F8E4D94B21949F8B00C11EC9 /* fai_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fai_1.png; sourceTree = "<group>"; };
+		F8E4D94D2194A03600C11EC9 /* fai_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fai_2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,7 +189,10 @@
 			isa = PBXGroup;
 			children = (
 				F816476521933F6300899F3F /* tray_Cuppy.png */,
-				F816475F219331BF00899F3F /* winnie_1_compressed.png */,
+				F8E4D94921949DE300C11EC9 /* endy_1.png */,
+				F8E4D939219493CF00C11EC9 /* winnie_1.png */,
+				F8E4D94B21949F8B00C11EC9 /* fai_1.png */,
+				F8E4D94D2194A03600C11EC9 /* fai_2.png */,
 				F816476321933EA500899F3F /* taeyeon_1.png */,
 			);
 			name = SampleStickers;
@@ -291,11 +300,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8E4D94C21949F8B00C11EC9 /* fai_1.png in Resources */,
+				F8E4D93A219493CF00C11EC9 /* winnie_1.png in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
-				F8164760219331BF00899F3F /* winnie_1_compressed.png in Resources */,
 				F816476621933F6300899F3F /* tray_Cuppy.png in Resources */,
+				F8E4D94E2194A03600C11EC9 /* fai_2.png in Resources */,
 				F816476421933EA500899F3F /* taeyeon_1.png in Resources */,
+				F8E4D94A21949DE300C11EC9 /* endy_1.png in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
