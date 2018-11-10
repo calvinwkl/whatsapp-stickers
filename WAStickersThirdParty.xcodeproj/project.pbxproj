@@ -38,6 +38,7 @@
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
+		F80CA36C21975E3400BFDFA5 /* cat_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F80CA36B21975E3400BFDFA5 /* cat_1.png */; };
 		F816476421933EA500899F3F /* taeyeon_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F816476321933EA500899F3F /* taeyeon_1.png */; };
 		F816476621933F6300899F3F /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = F816476521933F6300899F3F /* tray_Cuppy.png */; };
 		F88DA5F32196E30100D01358 /* pang_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F88DA5F22196E30100D01358 /* pang_1.png */; };
@@ -108,6 +109,7 @@
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
+		F80CA36B21975E3400BFDFA5 /* cat_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_1.png; sourceTree = "<group>"; };
 		F816476321933EA500899F3F /* taeyeon_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taeyeon_1.png; path = ../../Downloads/taeyeon_1.png; sourceTree = "<group>"; };
 		F816476521933F6300899F3F /* tray_Cuppy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tray_Cuppy.png; sourceTree = "<group>"; };
 		F88DA5F22196E30100D01358 /* pang_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pang_1.png; sourceTree = "<group>"; };
@@ -195,6 +197,7 @@
 				F8E4D939219493CF00C11EC9 /* winnie_1.png */,
 				F8E4D94B21949F8B00C11EC9 /* fai_1.png */,
 				F8E4D94D2194A03600C11EC9 /* fai_2.png */,
+				F80CA36B21975E3400BFDFA5 /* cat_1.png */,
 				F88DA5F22196E30100D01358 /* pang_1.png */,
 				F816476321933EA500899F3F /* taeyeon_1.png */,
 			);
@@ -316,6 +319,7 @@
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
+				F80CA36C21975E3400BFDFA5 /* cat_1.png in Resources */,
 				8A18E33D1FBA793F0082201D /* sticker_packs.wasticker in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
