@@ -40,6 +40,7 @@
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
 		F816476421933EA500899F3F /* taeyeon_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F816476321933EA500899F3F /* taeyeon_1.png */; };
 		F816476621933F6300899F3F /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = F816476521933F6300899F3F /* tray_Cuppy.png */; };
+		F88DA5F32196E30100D01358 /* pang_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F88DA5F22196E30100D01358 /* pang_1.png */; };
 		F8E4D93A219493CF00C11EC9 /* winnie_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D939219493CF00C11EC9 /* winnie_1.png */; };
 		F8E4D94A21949DE300C11EC9 /* endy_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94921949DE300C11EC9 /* endy_1.png */; };
 		F8E4D94C21949F8B00C11EC9 /* fai_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94B21949F8B00C11EC9 /* fai_1.png */; };
@@ -109,6 +110,7 @@
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
 		F816476321933EA500899F3F /* taeyeon_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taeyeon_1.png; path = ../../Downloads/taeyeon_1.png; sourceTree = "<group>"; };
 		F816476521933F6300899F3F /* tray_Cuppy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tray_Cuppy.png; sourceTree = "<group>"; };
+		F88DA5F22196E30100D01358 /* pang_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pang_1.png; sourceTree = "<group>"; };
 		F8E4D939219493CF00C11EC9 /* winnie_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winnie_1.png; sourceTree = "<group>"; };
 		F8E4D94921949DE300C11EC9 /* endy_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = endy_1.png; sourceTree = "<group>"; };
 		F8E4D94B21949F8B00C11EC9 /* fai_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fai_1.png; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				F8E4D939219493CF00C11EC9 /* winnie_1.png */,
 				F8E4D94B21949F8B00C11EC9 /* fai_1.png */,
 				F8E4D94D2194A03600C11EC9 /* fai_2.png */,
+				F88DA5F22196E30100D01358 /* pang_1.png */,
 				F816476321933EA500899F3F /* taeyeon_1.png */,
 			);
 			name = SampleStickers;
@@ -303,6 +306,7 @@
 				F8E4D94C21949F8B00C11EC9 /* fai_1.png in Resources */,
 				F8E4D93A219493CF00C11EC9 /* winnie_1.png in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
+				F88DA5F32196E30100D01358 /* pang_1.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
 				F816476621933F6300899F3F /* tray_Cuppy.png in Resources */,
 				F8E4D94E2194A03600C11EC9 /* fai_2.png in Resources */,
