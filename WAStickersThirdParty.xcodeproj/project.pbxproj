@@ -44,6 +44,10 @@
 		F88DA5F32196E30100D01358 /* pang_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F88DA5F22196E30100D01358 /* pang_1.png */; };
 		F8AB46D4219B188700CBF8DE /* winnie_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F8AB46D3219B188700CBF8DE /* winnie_2.png */; };
 		F8AB46D8219B2FCC00CBF8DE /* lmk_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8AB46D7219B2FCB00CBF8DE /* lmk_1.png */; };
+		F8CD2FC821A1A718005D68CE /* joyuri_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8CD2FC721A1A718005D68CE /* joyuri_1.png */; };
+		F8CD2FCA21A1A76B005D68CE /* choiyena_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8CD2FC921A1A76B005D68CE /* choiyena_1.png */; };
+		F8CD2FCD21A1A98A005D68CE /* nako_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8CD2FCB21A1A98A005D68CE /* nako_1.png */; };
+		F8CD2FCE21A1A98A005D68CE /* nako_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F8CD2FCC21A1A98A005D68CE /* nako_2.png */; };
 		F8E4D93A219493CF00C11EC9 /* winnie_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D939219493CF00C11EC9 /* winnie_1.png */; };
 		F8E4D94A21949DE300C11EC9 /* endy_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94921949DE300C11EC9 /* endy_1.png */; };
 		F8E4D94C21949F8B00C11EC9 /* fai_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8E4D94B21949F8B00C11EC9 /* fai_1.png */; };
@@ -117,6 +121,10 @@
 		F88DA5F22196E30100D01358 /* pang_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pang_1.png; sourceTree = "<group>"; };
 		F8AB46D3219B188700CBF8DE /* winnie_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winnie_2.png; sourceTree = "<group>"; };
 		F8AB46D7219B2FCB00CBF8DE /* lmk_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lmk_1.png; sourceTree = "<group>"; };
+		F8CD2FC721A1A718005D68CE /* joyuri_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = joyuri_1.png; sourceTree = "<group>"; };
+		F8CD2FC921A1A76B005D68CE /* choiyena_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = choiyena_1.png; sourceTree = "<group>"; };
+		F8CD2FCB21A1A98A005D68CE /* nako_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nako_1.png; sourceTree = "<group>"; };
+		F8CD2FCC21A1A98A005D68CE /* nako_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nako_2.png; sourceTree = "<group>"; };
 		F8E4D939219493CF00C11EC9 /* winnie_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winnie_1.png; sourceTree = "<group>"; };
 		F8E4D94921949DE300C11EC9 /* endy_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = endy_1.png; sourceTree = "<group>"; };
 		F8E4D94B21949F8B00C11EC9 /* fai_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fai_1.png; sourceTree = "<group>"; };
@@ -206,6 +214,10 @@
 				F80CA36B21975E3400BFDFA5 /* cat_1.png */,
 				F88DA5F22196E30100D01358 /* pang_1.png */,
 				F816476321933EA500899F3F /* taeyeon_1.png */,
+				F8CD2FC921A1A76B005D68CE /* choiyena_1.png */,
+				F8CD2FC721A1A718005D68CE /* joyuri_1.png */,
+				F8CD2FCB21A1A98A005D68CE /* nako_1.png */,
+				F8CD2FCC21A1A98A005D68CE /* nako_2.png */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -316,18 +328,22 @@
 				F8E4D93A219493CF00C11EC9 /* winnie_1.png in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
 				F88DA5F32196E30100D01358 /* pang_1.png in Resources */,
+				F8CD2FCE21A1A98A005D68CE /* nako_2.png in Resources */,
 				F8AB46D8219B2FCC00CBF8DE /* lmk_1.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
+				F8CD2FCD21A1A98A005D68CE /* nako_1.png in Resources */,
 				F816476621933F6300899F3F /* tray_Cuppy.png in Resources */,
 				F8E4D94E2194A03600C11EC9 /* fai_2.png in Resources */,
 				F816476421933EA500899F3F /* taeyeon_1.png in Resources */,
 				F8E4D94A21949DE300C11EC9 /* endy_1.png in Resources */,
+				F8CD2FCA21A1A76B005D68CE /* choiyena_1.png in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
 				F8AB46D4219B188700CBF8DE /* winnie_2.png in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
 				F80CA36C21975E3400BFDFA5 /* cat_1.png in Resources */,
+				F8CD2FC821A1A718005D68CE /* joyuri_1.png in Resources */,
 				8A18E33D1FBA793F0082201D /* sticker_packs.wasticker in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
